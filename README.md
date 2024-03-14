@@ -25,10 +25,6 @@
       <br>Vue
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="55" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="55" height="45" alt="Angular" />
       <br>Angular
     </td>
@@ -46,10 +42,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="55" height="45" alt="rails" />
-      <br>WordPress
-    </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
@@ -69,10 +61,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
       <br>RestAPI
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="55" height="55" />
-      <br>Rust
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="55" height="55" />
