@@ -1,7 +1,1 @@
-### Hi there 👋
-
-I'm a Web Dev student
-
-- 🔭 I’m currently working on a homemade php framework
-- 🌱 I’m currently learning VuesJS and threeJs
-- 📫 How to reach me: o2berranger@gmail.com
+<a src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscardeBerranger)](https://github.com/anuraghazra/github-readme-stats)"><a/>
